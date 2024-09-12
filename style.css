@@ -1,0 +1,18 @@
+
+body {
+    height: 300px;
+    width: 200px;
+    background-color: rgb(214, 214, 235);
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+}
+h1 {
+     display: inner-flex;
+     margin: auto 10px;
+     font-size: 25px;
+     color: brown;
+     border-radius: 10px;
+     padding: 10px;
+     border: 1px solid lightblue;
+}

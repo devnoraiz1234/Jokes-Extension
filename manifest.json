@@ -1,0 +1,15 @@
+{
+    "name": "Jokes",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "icons": {
+        "128": "joke128.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
+ 
